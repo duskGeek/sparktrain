@@ -20,6 +20,7 @@ object TransformApp {
         y=> print("black print.........")
           println("y._1:"+y._1)
           println("y._2:"+y._2)
+          println("y._2:"+y._2)
       } )
     })
 
